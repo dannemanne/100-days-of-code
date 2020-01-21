@@ -26,3 +26,17 @@ most efficient way running loops multiple times when it could have been nested i
 [Exercism - Elixir #1](https://exercism.io/tracks/elixir/exercises/hello-world/solutions/a2b058fec2554b48b0a172ac519fb963)
 [Exercism - Elixir #2](https://exercism.io/tracks/elixir/exercises/rna-transcription/solutions/6dc4fc32444a4f8982d84e6e212e7789)
 [Exercism - Elixir #3](https://exercism.io/tracks/elixir/exercises/word-count/solutions/8a974a1a4a364ef1a884501d227ae7eb)
+
+### Day 3: January 20, 2020
+
+**Today's Progress**: UI Tips & Tricks and Elixir practice
+
+**Thoughts:** I concider the design part of my work to be one of my major weaknesses. But I want to improve
+even though I doubt I'm ever going to consider myself a designer. By reading about rules and guidelines for
+design patterns, I believe I can become better by using a systematic approach to the design, just like I
+would for my other tasks. Feels good so far!
+
+Also some more Elixir practice, and indirectly some math challenges because of the tasks offered on Exercism.
+I'm a little split between pushing ahead with less efficient solutions in terms of algorithms, just to improve
+my proficiency with Elixir. But I think it's better long term if I spend more time on a task, just to find
+a better solution to it all-around.
