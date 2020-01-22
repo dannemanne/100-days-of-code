@@ -40,3 +40,12 @@ Also some more Elixir practice, and indirectly some math challenges because of t
 I'm a little split between pushing ahead with less efficient solutions in terms of algorithms, just to improve
 my proficiency with Elixir. But I think it's better long term if I spend more time on a task, just to find
 a better solution to it all-around.
+
+### Day 4: January 21, 2020
+
+**Today's Progress**: Experimented with using different fonts in UI
+
+**Thoughts:** Tried out the effects of using different fonts and what effects you can get from using
+font weight, colour and opacity in different ways.
+
+**Link to work:** [Blog](http://www.dannemanne.com)
