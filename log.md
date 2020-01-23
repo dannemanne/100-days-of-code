@@ -49,3 +49,16 @@ a better solution to it all-around.
 font weight, colour and opacity in different ways.
 
 **Link to work:** [Blog](http://www.dannemanne.com)
+
+**Today's Progress**: More Elixir practice on Exercism.io
+
+**Thoughts:** Solved the problem I previously got stuck on. Convert integers to Roman literals. But I belive
+the reason I got stuck was more about me not tackling the algorithm before diving into Elixir code and
+functions. Once I solved the theory, I was able to focus more on how to write it down, and then it came
+together nicely. Of course, when comparing my solution to other people in the community, there's obviously
+room for improvement. But that's a good thing!
+
+**Link to work:**
+[Exercism - Elixir #1](https://exercism.io/tracks/elixir/exercises/hello-world/solutions/a2b058fec2554b48b0a172ac519fb963)
+[Exercism - Elixir #2](https://exercism.io/tracks/elixir/exercises/rna-transcription/solutions/6dc4fc32444a4f8982d84e6e212e7789)
+[Exercism - Elixir #3](https://exercism.io/tracks/elixir/exercises/word-count/solutions/8a974a1a4a364ef1a884501d227ae7eb)
