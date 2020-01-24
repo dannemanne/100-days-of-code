@@ -50,6 +50,8 @@ font weight, colour and opacity in different ways.
 
 **Link to work:** [Blog](http://www.dannemanne.com)
 
+### Day 5: January 22, 2020
+
 **Today's Progress**: More Elixir practice on Exercism.io
 
 **Thoughts:** Solved the problem I previously got stuck on. Convert integers to Roman literals. But I belive
@@ -59,6 +61,12 @@ together nicely. Of course, when comparing my solution to other people in the co
 room for improvement. But that's a good thing!
 
 **Link to work:**
-[Exercism - Elixir #1](https://exercism.io/tracks/elixir/exercises/hello-world/solutions/a2b058fec2554b48b0a172ac519fb963)
-[Exercism - Elixir #2](https://exercism.io/tracks/elixir/exercises/rna-transcription/solutions/6dc4fc32444a4f8982d84e6e212e7789)
-[Exercism - Elixir #3](https://exercism.io/tracks/elixir/exercises/word-count/solutions/8a974a1a4a364ef1a884501d227ae7eb)
+[Exercism - Elixir #4](https://exercism.io/tracks/elixir/exercises/roman-numerals/solutions/047bacf3feca4e839f08590ace36dfbe)
+
+### Day 6: January 23, 2020
+
+**Today's Progress**: Finished the second half of React on FreeCodeCamp
+
+**Thoughts:** Difficult to find the motivation after a long day at work today. Decided to power through but
+do something easy. The React lessons are easy at this stage, but it still requires you to read the task and
+write the solution, so keeps the mind focused at least.
